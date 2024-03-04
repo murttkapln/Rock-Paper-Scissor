@@ -1,5 +1,5 @@
 
-![rock-paper scissor](![rock_paper-scissor](https://github.com/murttkapln/Rock-Paper-Scissor/assets/98225860/6f9a3086-732e-481a-8c41-6b6b6270bfac))
+![rock_paper-scissor](https://github.com/murttkapln/Rock-Paper-Scissor/assets/98225860/cf3a9638-944e-479c-a54a-fa0b7cd3b7de)
 
 
 ## Description
