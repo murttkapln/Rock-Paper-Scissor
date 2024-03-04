@@ -1,4 +1,4 @@
-## Rock Paper Scissor Game wih JS
+
 
 ## Description
 
