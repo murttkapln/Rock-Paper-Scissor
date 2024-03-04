@@ -14,6 +14,9 @@ const scoreCardSection = document.querySelector(".score-card");
 const yourScoreSpan = document.getElementById("your-score");
 const pcScoreSpan = document.getElementById("pc-score");
 const topScoreSpan = document.getElementById("top-score");
+topScoreSpan.textContent = localStorage.getItem("top score")
+  ? localStorage.getItem("top score")
+  : topScoreSpan.textContent; //? top score daimi görünsün.
 console.log(topScoreSpan.textContent);
 // localStorage.setItem("top score", topScoreSpan.textContent)
 // localStorage.setItem("high score",0)
