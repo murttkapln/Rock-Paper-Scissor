@@ -5,8 +5,8 @@
 ## Description
 The project aims to create a Rock Paper Scissor Game using JS.
 
-[Live Link](https://murttkapln.github.io/Rock-Paper-Scissor/)
-
+![rock_paper-scissor](https://github.com/murttkapln/Rock-Paper-Scissor/assets/)
+[Live Link](https://murttkapln.github.io/Rock-Paper-Scissor/game.jpeg)
 
 ## Problem Statement
 
