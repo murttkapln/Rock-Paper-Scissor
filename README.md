@@ -3,9 +3,10 @@
 
 
 ## Description
+The project aims to create a Rock Paper Scissor Game using JS.
+
 [Live Link](https://murttkapln.github.io/Rock-Paper-Scissor/)
 
-The project aims to create a Rock Paper Scissor Game using JS.
 
 ## Problem Statement
 
